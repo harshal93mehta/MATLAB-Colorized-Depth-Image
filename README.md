@@ -4,9 +4,9 @@ Taking a kinect sensor depth image of a scene and another regular RGB camera ima
 This project requires MATLAB Computer Vision Toolbox
 
 # How to Run:
---> Clone/download the repo.
---> Open MATLAB and navigate to the repo folder
---> Run "Colorized_depth_image_main_script.m".
+1) Clone/download the repo.
+2) Open MATLAB and navigate to the repo folder
+3) Run "Colorized_depth_image_main_script.m".
 
 # Information about the data required
 --> "color-63647317626781.png" and "color-63647317628081.png" are the regular color images taken by a camera
